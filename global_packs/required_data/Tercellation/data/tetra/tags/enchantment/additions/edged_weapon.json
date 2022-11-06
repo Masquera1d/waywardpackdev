@@ -1,0 +1,12 @@
+{
+    "replace":false,
+    "values": [
+        "ensorcellation:damage_ender",
+		"ensorcellation:damage_illager",
+		"ensorcellation:damage_villager",
+        "ensorcellation:frost_aspect",
+        "ensorcellation:vorpal",
+        "ensorcellation:leech",
+		"farmersdelight:backstabbing"
+    ]
+}
