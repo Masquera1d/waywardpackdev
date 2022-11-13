@@ -1,0 +1,1 @@
+give @s iron_sword{SpellboundItem:1,display:{Name:'{"translate": "Windsweeper","italic": false,"color": "#d5d6b6"}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},SpellboundWindsweptSword:1,CustomModelData:47014}

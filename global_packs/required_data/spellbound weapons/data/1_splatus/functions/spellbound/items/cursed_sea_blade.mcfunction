@@ -1,0 +1,1 @@
+give @s stone_sword{CustomModelData:47006,Unbreakable:1b,SpellboundItem:1,CursedSeaBlade:1,Enchantments:[{id:"sharpness",lvl:1s}],display:{Name:'{"translate":"Cursed Sea Blade","color":"#71ebc6","italic":false}',Lore:['{"translate":"Curse of Fish I","color":"gray","italic":false}','{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

@@ -1,0 +1,1 @@
+give @s bow{SpellboundBlowgun:1,SpellboundItem:1,display:{Name:'{"translate":"Blowgun","color":"#588025","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},CustomModelData:47032}

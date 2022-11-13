@@ -1,0 +1,1 @@
+give @s minecraft:fishing_rod{CustomModelData:47019,SpellboundItem:1,SpellboundBoneWand:1,display:{Name:'{"translate":"Bone Wand","italic":false,"color": "#aeb1bd"}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

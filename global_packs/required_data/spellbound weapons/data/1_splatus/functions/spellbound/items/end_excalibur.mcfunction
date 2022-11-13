@@ -1,0 +1,1 @@
+give @s diamond_sword{CustomModelData:47001,SpellboundItem:1,EndExcalibur:1,Enchantments:[{id:"sharpness",lvl:2s}],display:{Name:'{"translate":"End Excalibur","color":"#a66ee6","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

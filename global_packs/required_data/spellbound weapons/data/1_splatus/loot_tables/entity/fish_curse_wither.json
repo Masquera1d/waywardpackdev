@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      
+      {
+        "rolls": 10,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 25,
+            "name": "minecraft:prismarine_shard",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{DetectCursedMobDeath:1}"
+              }
+            ]
+            
+            
+          }
+          
+        ]
+      
+      }
+      
+      
+    ]
+  }
+  

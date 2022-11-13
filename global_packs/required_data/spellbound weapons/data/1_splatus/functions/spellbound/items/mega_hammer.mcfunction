@@ -1,0 +1,1 @@
+give @s minecraft:iron_axe{CustomModelData:47016,SpellboundItem:1,display:{Name:'{"translate":"Mega Hammer","color":"yellow","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},Enchantments:[{id:"unbreaking",lvl:1s}],SpellboundMegaHammer:1}

@@ -1,0 +1,1 @@
+give @s crossbow{SpellboundItem:1,CustomModelData:47033,SpellboundZGCrossbow:1,display:{Name:'{"translate":"Warped Crossbow","color":"#00a67f","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

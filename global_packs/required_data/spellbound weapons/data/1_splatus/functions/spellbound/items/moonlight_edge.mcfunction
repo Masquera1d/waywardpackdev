@@ -1,0 +1,1 @@
+give @s diamond_sword{CustomModelData:47046,SpellboundItem:1,SpellboundMoonlightEdge:1,display:{Name:'{"translate":"Moonlight Edge","color":"#9d64ed","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},Enchantments:[{id:"unbreaking",lvl:1s}]}

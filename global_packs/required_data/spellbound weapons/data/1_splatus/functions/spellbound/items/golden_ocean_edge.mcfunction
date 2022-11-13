@@ -1,0 +1,1 @@
+give @s iron_sword{CustomModelData:47045,SpellboundItem:1,SpellboundGoldenOceanEdge:1,display:{Name:'{"translate":"Golden Sea Blade","color":"#e5ff70","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},Enchantments:[{id:"unbreaking",lvl:1s}]}

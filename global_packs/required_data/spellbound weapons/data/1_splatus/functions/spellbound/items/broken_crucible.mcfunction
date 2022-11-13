@@ -1,0 +1,1 @@
+give @s stick{CustomModelData:47044,SpellboundItem:1,SpellboundBrokenCrucible:1,display:{Name:'{"translate":"Broken Crucible","color":"#bcbccf","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

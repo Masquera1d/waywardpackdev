@@ -1,0 +1,1 @@
+give @s minecraft:iron_shovel{CustomModelData:47018,SpellboundItem:1,display:{Name:'{"translate":"Dagger","color":"#91e060","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']},SpellboundDagger:1}

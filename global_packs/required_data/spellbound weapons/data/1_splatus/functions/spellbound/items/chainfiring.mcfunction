@@ -1,0 +1,1 @@
+give @s crossbow{CustomModelData:47030,SpellboundItem:1,SpellboundChainfiring:1,display:{Name:'{"translate":"Chain Firing Crossbow","color":"#84b2b3","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

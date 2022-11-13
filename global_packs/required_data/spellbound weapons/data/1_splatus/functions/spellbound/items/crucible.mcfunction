@@ -1,0 +1,1 @@
+give @s diamond_sword{CrucibleDye:1,display:{Name:'{"translate":"Crucible","color":"#EB3868","italic":false}',Lore:['{"translate":"Color: Red","color":"gray","italic":false}','{"translate":"Spellbound Weapons","color":"#676E75","italic":true}']},CustomModelData:47042,SpellboundItem:1,SpellboundCrucible:1,Enchantments:[{id:"minecraft:unbreaking",lvl:2s}]} 1

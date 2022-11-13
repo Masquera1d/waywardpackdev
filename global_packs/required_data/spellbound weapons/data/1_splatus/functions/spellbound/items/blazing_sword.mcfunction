@@ -1,0 +1,1 @@
+give @s stone_sword{CustomModelData:47004,SpellboundItem:1,BlazingSword:1,display:{Name:'{"translate":"Blazing Sword","color":"#ff8400","italic":false}',Lore:['{"translate":"Chainflame I","color":"gray","italic":false}','{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

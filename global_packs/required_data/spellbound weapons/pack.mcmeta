@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      {
+        "translate": "Epic New MC Weapons",
+        "color": "#ebff66"
+      },
+      {
+        "translate": "\n"
+      },
+      {
+        "translate": "Version 3.4.2 - MC 1.19",
+        "color": "#898f96"
+      }
+    ]
+  }
+}

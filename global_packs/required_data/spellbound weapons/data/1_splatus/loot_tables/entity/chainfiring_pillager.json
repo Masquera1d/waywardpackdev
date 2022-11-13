@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        
+        {
+            "rolls": 1,
+            "entries": [
+                
+              {
+                
+                "type": "minecraft:item",
+                "weight": 10,
+                "name": "minecraft:crossbow",
+                "functions": [
+                  {
+                    "function": "minecraft:set_damage",
+                    "damage": {
+                      "min": -0.7,
+                      "max": -0.2
+                    },
+                    "add": true
+                  },
+                  {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CustomModelData:47030,SpellboundItem:1,SpellboundChainfiring:1,display:{Name:'{\"translate\":\"Chain Firing Crossbow\",\"color\":\"#84b2b3\",\"italic\":false}',Lore:['{\"translate\":\"Spellbound Weapons\",\"color\":\"#676e75\",\"italic\": true}']}}"
+                  }
+                ]
+              }
+              
+            ]
+          
+          }
+        ]
+  }
+  

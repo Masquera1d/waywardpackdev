@@ -1,0 +1,1 @@
+give @s blaze_rod{CustomModelData:47007,SpellboundItem:1,EmptyStaff:1,display:{Name:'{"translate":"Empty Staff","color":"#bcbccf","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}

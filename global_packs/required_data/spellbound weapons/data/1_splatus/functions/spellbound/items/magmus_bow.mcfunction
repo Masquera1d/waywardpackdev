@@ -1,0 +1,1 @@
+give @s bow{CustomModelData:47040,SpellboundItem:1,SpellboundMagmusCharger:1,display:{Name:'{"translate":"Magmus Charger","color":"#cc081f","italic":false}',Lore:['{"translate":"Spellbound Weapons","color":"#676e75","italic": true}']}}
